@@ -72,6 +72,17 @@
     "secondaryLinks": [
         {
             "type": "Link",
+            "label": "Instagram",
+            "altText": "Instagram",
+            "url": "/browniedeverdade",
+            "showIcon": true,
+            "icon": "instagram",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
             "altText": "",
             "url": "/browniedeverdade",
             "showIcon": true,
