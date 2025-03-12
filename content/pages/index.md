@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: SEM CAÔ COM
+      text: 'SEM CAÔ COM '
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
