@@ -80,16 +80,6 @@
             "iconPosition": "left",
             "style": "secondary",
             "elementId": ""
-        },
-        {
-            "type": "Link",
-            "altText": "",
-            "url": "/browniedeverdade",
-            "showIcon": true,
-            "icon": "instagram",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "variant": "logo-left-primary-nav-centered",
